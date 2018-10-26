@@ -1,0 +1,20 @@
+PODS:
+  - TextFieldEffects (1.4.0)
+  - TransitionButton (0.3.0)
+
+DEPENDENCIES:
+  - TextFieldEffects
+  - TransitionButton
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - TextFieldEffects
+    - TransitionButton
+
+SPEC CHECKSUMS:
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+  TransitionButton: 0bf7e5ffe80030f9d10d57983a04acf2f511998a
+
+PODFILE CHECKSUM: 68af1f14cd791eb6f9550b71309f30eea0f80e82
+
+COCOAPODS: 1.5.0
